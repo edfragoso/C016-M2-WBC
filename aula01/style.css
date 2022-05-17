@@ -1,0 +1,49 @@
+main{
+    min-width: 320px;
+    max-width: 800px;
+    height: auto;
+    display: flex;
+    border-radius: 5px;
+    border: solid gray;
+    margin: 5px;
+    padding: 5px;
+    text-align: justify;
+}
+
+h1{
+    border-radius: 5px;
+    border: solid gray;
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+}
+
+h2{
+    border-radius: 5px;
+    border: solid blue;
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+section{
+    display: ;
+    border-radius: 5px;
+    border: solid gray;
+    margin: 10px;
+    padding: 5px;
+    text-align: justify;
+    width: 400px;
+    height: 400px;
+}
+.midia{
+    margin: 10px;
+}
